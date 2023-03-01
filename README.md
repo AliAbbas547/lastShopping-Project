@@ -1,5 +1,6 @@
 # works-Done
 its having two branches one for frontend code and second one is for backend
+done
 A simple, modern e-commerce site that can be tailored to the needs of individual sellers in a short matter of time.
 
 My idea with eCommerce site was to develop a lean for an e-commerce site that can be easily customized and added to by the user. The site boasts all the features that you would expect from a e-commerce site including product pages, product view pages, a shopping cart and pages for the brand to tell their story and post upcoming events such as sales and product releases.
